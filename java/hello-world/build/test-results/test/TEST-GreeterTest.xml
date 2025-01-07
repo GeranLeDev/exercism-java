@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GreeterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-07T21:06:45" hostname="MacBook-Air-de-Matis.local" time="0.03">
+  <properties/>
+  <testcase name="testThatGreeterReturnsTheCorrectGreeting()" classname="GreeterTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
